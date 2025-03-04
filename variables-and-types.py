@@ -1,5 +1,5 @@
 # Yeah, I know. What I'm doing is super basic. I haven't coded in years, since I've been working
-# as a System Administrator.
+# as a System Administrator. I'm doing this for practice.
 
 # variables can't start with numbers
 # never start a variable name with an upper case because it can get confused with a class
