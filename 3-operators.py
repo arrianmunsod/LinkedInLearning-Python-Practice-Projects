@@ -12,6 +12,12 @@ print(5 ** 2)
 
 ######################################################################################################
 
+# Arithmetic Operators with Strings
+
+
+
+
+
 # COMPARISON, LOGICAL, AND MEMBERSHIP OPERATORS
 
 
