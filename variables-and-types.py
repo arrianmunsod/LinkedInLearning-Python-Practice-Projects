@@ -1,4 +1,4 @@
-# Yeah, I know. What I'm doing is super basic. I haven't coded in years, since I've been working working
+# Yeah, I know. What I'm doing is super basic. I haven't coded in years, since I've been working
 # as a System Administrator.
 
 # variables can't start with numbers
