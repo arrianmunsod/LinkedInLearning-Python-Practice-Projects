@@ -4,6 +4,9 @@
 # we use classes and objects for re-usability
 # init function is called whenever an instance of the class Dog is created
 # self is a variable
+# good practice to use capital letter in the beginning of Class name,
+# and use lower case in variable names
+
 class Dog:
     def __init__(self, name):
         self.name = name
