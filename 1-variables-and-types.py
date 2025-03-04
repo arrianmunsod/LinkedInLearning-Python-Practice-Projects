@@ -5,7 +5,7 @@
 # never start a variable name with an upper case because it can get confused with a class
 # you can use both single quotes and double quotes for strings in python
 
-variable1 = 69
+variable1 = 24
 print(variable1)
 
 # you can use type() to identify the date type of something
@@ -21,6 +21,9 @@ print(variable_concatenate_example)
 
 # Booleans start with a capital letter: True or False   - super important
 # because if you used a small letter, it will try to interpret it as a variable
+# but we usually don't explicitly type True or False, it is usually a result
+
+# == is a comparison operator
 
 
 
